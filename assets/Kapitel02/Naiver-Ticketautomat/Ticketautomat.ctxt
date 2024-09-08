@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ticketautomat
+comment0.text=\r\n\ Die\ Klasse\ Ticketautomat\ modelliert\ einfache\ Ticketautomaten,\r\n\ die\ Tickets\ zu\ einem\ Einheitspreis\ herausgeben.\r\n\ Der\ Preis\ f\u00FCr\ die\ Tickets\ eines\ Automaten\ kann\ \u00FCber\ den\ Konstruktor\r\n\ festgelegt\ werden.\r\n\ Ein\ Ticketautomat\ ist\ insofern\ 'naiv',\ dass\ er\ seinen\ Benutzern\r\n\ vertraut,\ dass\ sie\ gen\u00FCgend\ Geld\ einwerfen,\ bevor\ sie\ sich\ ein\ Ticket\r\n\ ausdrucken\ lassen.\r\n\ Au\u00C3\u0178erdem\ nimmt\ er\ an,\ dass\ sinnvolle\ Betr\u00E4ge\ eingeworfen\ werden.\r\n\r\n\ @author\ David\ J.\ Barnes\ und\ Michael\ K\u00F6lling\r\n\ @version\ 2003.05.15\r\n
+comment1.params=ticketpreis
+comment1.target=Ticketautomat(int)
+comment1.text=\r\n\ Erzeuge\ eine\ Maschine,\ die\ Tickets\ zum\ angegebenen\ Preis\r\n\ (in\ Cent)\ ausgibt.\r\n\ Zu\ beachten\:\ Der\ Preis\ muss\ gr\u00F6\u00DFer\ als\ Null\ sein,\r\n\ der\ Automat\ \u00FCberpr\u00FCt\ dies\ jedoch\ nicht.\r\n
+comment2.params=
+comment2.target=int\ getPreis()
+comment2.text=\r\n\ Gibt\ den\ Preis\ eines\ Tickets\ zur\u00C3\u00BCck\r\n
+comment3.params=
+comment3.target=int\ getBisherGezahlt()
+comment3.text=\r\n\ Liefere\ die\ H\u00F6he\ des\ Betrags,\ der\ f\u00C3\u00BCr\ das\ n\u00C3\u00A4chste\ Ticket\ bereits\r\n\ eingeworfen\ wurde.\r\n
+comment4.params=betrag
+comment4.target=void\ geldEinwerfen(int)
+comment4.text=\r\n\ Wirf\ die\ angegebene\ Menge\ an\ Cents\ in\ den\ Automaten\r\n
+comment5.params=
+comment5.target=void\ get_r\u00FCckgeld()
+comment6.params=
+comment6.target=void\ ticketDrucken()
+comment6.text=\r\n\ Drucke\ ein\ Ticket.\r\n\ Aktualisiere\ die\ eingenommene\ Gesamtsumme\ und\ setze\ den\ gezahlten\r\n\ Betrag\ auf\ Null.\r\n
+numComments=7

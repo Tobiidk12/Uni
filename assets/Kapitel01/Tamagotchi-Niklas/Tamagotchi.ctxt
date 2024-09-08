@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Tamagotchi
+comment1.params=hungry\ happy\ tired
+comment1.target=Tamagotchi(int,\ int,\ int)
+comment1.text=\r\n\ \ \ \ \ \r\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Tamagotchi
+comment2.params=
+comment2.target=void\ play()
+comment3.params=
+comment3.target=void\ eat()
+comment4.params=
+comment4.target=void\ sleep()
+comment5.params=
+comment5.target=void\ pet()
+comment6.params=
+comment6.target=java.lang.String\ getGeneralCondition()
+comment7.params=
+comment7.target=void\ makeHappy()
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bild
+comment0.text=\r\n\ Diese\ Klasse\ definiert\ ein\ einfaches\ Bild.\ Um\ das\ Bild\ auf\r\n\ dem\ Bildschirm\ anzeigen\ zu\ lassen,\ muss\ die\ zeichne-Operation\ auf\r\n\ einem\ Exemplar\ aufgerufen\ werden.\r\n\ Aber\ hier\ steckt\ mehr\ drin\:\ Da\ es\ eine\ elektronische\ Zeichnung\ ist,\r\n\ kann\ sie\ ge\u00E4ndert\ werden.\ Man\ kann\ sie\ schwarz-wei\u00DF\ anzeigen\ lassen\r\n\ und\ dann\ wieder\ in\ Farbe\ (nachdem\ sie\ gezeichnet\ wurde,\ ist\ ja\ klar).\r\n\ \r\n\ Diese\ Klasse\ ist\ als\ fr\u00FChes\ Java-Lehrbeispiel\ mit\ BlueJ\ gedacht.\r\n\ \r\n\ @author\ \ Michael\ K\u00F6lling\ und\ David\ J.\ Barnes\r\n\ @version\ 2016.02.29\r\n
+comment1.params=
+comment1.target=Bild()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Bild\r\n
+comment2.params=
+comment2.target=void\ zeichne()
+comment2.text=\r\n\ Zeichne\ das\ Bild.\r\n
+comment3.params=
+comment3.target=void\ inSchwarzWeissAendern()
+comment3.text=\r\n\ \u00C4ndere\ die\ Darstellung\ in\ schwarz-wei\u00DF.\r\n
+comment4.params=
+comment4.target=void\ inFarbeAendern()
+comment4.text=\r\n\ \u00C4ndere\ die\ Darstellung\ in\ Farbe.\r\n
+numComments=5

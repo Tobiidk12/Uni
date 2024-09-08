@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=sieve
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ sieve.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=sieve()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ sieve\r\n
+comment2.params=y
+comment2.target=int\ beispielMethode(int)
+comment2.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+comment3.params=n
+comment3.target=boolean[]\ sieve1(int)
+comment4.params=n
+comment4.target=boolean[]\ sieve(int)
+comment5.params=
+comment5.target=void\ Test1()
+comment6.params=
+comment6.target=int[][]\ chessBoard()
+comment7.params=rows
+comment7.target=int[][]\ bino(int)
+numComments=8

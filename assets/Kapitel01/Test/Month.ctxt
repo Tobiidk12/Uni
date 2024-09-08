@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Month
+comment1.params=m
+comment1.target=Month(int)
+comment2.params=
+comment2.target=boolean\ isRmonth()
+comment3.params=n
+comment3.target=int\ crossTotal(int)
+numComments=4

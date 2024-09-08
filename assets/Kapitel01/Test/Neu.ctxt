@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Neu
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Neu.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Neu()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Neu\r\n
+comment2.params=y
+comment2.target=int\ beispielMethode(int)
+comment2.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+comment3.params=n
+comment3.target=int\ crossTotal(int)
+comment4.params=
+comment4.target=void\ test1()
+comment5.params=numbers
+comment5.target=void\ printNumbers(int[])
+comment6.params=n
+comment6.target=int\ crossTotal2(int)
+comment7.params=n
+comment7.target=int\ repeatedCrossTotal(int)
+comment8.params=words
+comment8.target=int\ totalLength(java.lang.String[])
+numComments=9
