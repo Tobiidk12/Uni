@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Test_5
+comment0.text=\r\n\ \r\n\ \r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Test_5.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Test_5()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Test_5\r\n
+comment2.params=input
+comment2.target=java.util.ArrayList\ unify(java.util.ArrayList)
+comment3.params=strings
+comment3.target=java.util.List\ arrayToList(java.lang.String[])
+comment3.text=\r\npublic\ \ List<String>\ arrayToList(String[]\ strings){\r\n\ \ \ \ \ \ \ \ if(strings\ \=\=\ null)\ return\ null;\r\n\ \ \ \ \ \ \ \ ArrayList<String>\ List\ \=new\ ArrayList<>();\r\n\ \ \ \ \ \ \ \ for(int\ i\ \=\ strings.length\ -1;\ i\ >\=0;\ i--){\r\n\ \ \ \ \ \ \ \ \ \ \ \ List.add(strings[i]);\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ return\ List;\r\n\ \ \ \ }\r\n\ \r\n\ \ \ \ public\ String[]\ listToArray(List<String>\ list){\r\n\ \ \ \ \ \ \ \ if(list\ \=\=\ null)\ return\ null;\r\n\ \ \ \ \ \ \ \ String[]\ stringArray\ \=\ list.toArray(new\ String[list.size()]);\r\n\ \ \ \ \ \ \ \ return\ stringArray;\r\n\ \ \ \ }\r\n
+comment4.params=list
+comment4.target=java.lang.String[]\ listToArray(java.util.List)
+comment5.params=posts\ tabu
+comment5.target=void\ deleteTabu(java.util.ArrayList,\ java.lang.String)
+comment6.params=y
+comment6.target=int\ beispielMethode(int)
+comment6.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+numComments=7
