@@ -24,7 +24,16 @@ public class test
         x = 0;
         array2[0] = "ich";
     }
-
+public void teeeeest(){
+    String text ="abcdefghijklmnopqrstuvwxyzabcdefghi";
+                    String textt ="reglvmglxki";
+                    for ( int i = 0; i < textt.length(); i++){
+                        for ( int j = 0; j < text.length(); j++){
+                            if (i == j){
+                                System.out.print(i);
+                            }
+                        }
+                    }}
     /**
      * Ein Beispiel einer Methode - ersetzen Sie diesen Kommentar mit Ihrem eigenen
      * 
